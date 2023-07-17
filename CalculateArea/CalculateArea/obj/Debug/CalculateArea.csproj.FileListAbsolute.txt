@@ -1,0 +1,5 @@
+C:\Users\liliy\Desktop\собесы\CalculateArea\CalculateArea\bin\Debug\CalculateArea.dll
+C:\Users\liliy\Desktop\собесы\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Users\liliy\Desktop\собесы\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csprojResolveAssemblyReference.cache
+C:\Users\liliy\Desktop\собесы\CalculateArea\CalculateArea\obj\Debug\CalculateArea.dll
+C:\Users\liliy\Desktop\собесы\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb

@@ -1,0 +1,9 @@
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\bin\Debug\CalculateArea.dll
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\bin\Debug\CalculateArea.pdb
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\liliy\Desktop\собесы\CalculateArea\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
